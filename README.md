@@ -11,6 +11,7 @@ If you want to play any builds (versions) Of old Rec Room, then you come to the 
 ## What working and not:
 
 | Name                | Status | Note                                                          |
+|---------------------|--------|---------------------------------------------------------------|
 | Multiplayer         | ✅     | You can connect and play with your friends !                  |
 | Polaroids           | ✅     | Print photos!                                                 |
 | Custom Rooms        | ✅     | Semi-works, you can create a custom room, but not publish it. |
