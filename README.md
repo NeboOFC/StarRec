@@ -19,20 +19,21 @@ If you want to play any builds (versions) Of old Rec Room, then you come to the 
 | Actual Rec.Net      | ❌     | Support For this might never be officially added.             |
 | Customizing Profile | ✅     | Change your name, pfp and level trough app !                  |
 
-> *Note: This table gonna update every time when we gonna fix/make work any things.*
+> *Note: This table gonna update.*
 
 ## Builds we have:
 
 | Build          | Status | Note                                               |
+|----------------|--------|----------------------------------------------------|
 | 2016           | ✅     | Working!                                           |
 | 2017           | ✅     | Working!                                           |
 | 2018           | ✅     | Working!                                           |
 | 2019           | ❌     | Support for this might never be officially added.  |
 | 2020           | ❌     | Support for this might never be officially added.  |
 | 2021           | ❌     | Support For this might never be officially added.  |
-| 2022 and newer | ✅     | Support for this might never be officially added.  |
+| 2022 and newer | ❌     | Support for this might never be officially added.  |
 
-> *Note: This table gonna update every time when we gonna fix/make work any things.*
+> *Note: This table gonna update.*
 
 ## Disclaimer
 
