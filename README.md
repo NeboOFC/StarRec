@@ -8,6 +8,21 @@ StarRec - Old Rec Room Rec.Net replacement,
 
 If you want to play any builds (versions) Of old Rec Room, then you come to the right place!
 
+## What working and not:
+
+| Name | Status          |  Notes                                                                         |
+|------|-----------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Multiplayer            | ✅         |                                                                 |
+| Polaroids              | ✅         |  Print photos!                                                  |
+| CustomRooms            | ✅❌      |  Semi-works.                                                    |
+| Friending People       | ❌         |  Support for this might never be officially added.              |
+| Account Creation       | ❌         |  Support for this might never be officially added.              |
+| Actual Rec.Net         | ❌         |  Support for this might never be officially added.             |
+| Customizing Profile    | ✅         | Change your name, pfp and level!                                |
+
+
+> *Note: This table gonna update every time when we gonna fix/make work any things.*
+
 ## Disclaimer
 
 This project is not affiliated with [Rec Room](https://recroom.com/) in any way, no intends to infringe on their copyrights. Distributing old versions of Rec Room is copyright infringement. Use this app at your own risk.
