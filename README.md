@@ -10,16 +10,27 @@ If you want to play any builds (versions) Of old Rec Room, then you come to the 
 
 ## What working and not:
 
-| Name | Status          |  Notes                                                                         |
-|------|-----------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Multiplayer            | ✅         |                                                                 |
-| Polaroids              | ✅         |  Print photos!                                                  |
-| CustomRooms            | ✅❌      |  Semi-works.                                                    |
-| Friending People       | ❌         |  Support for this might never be officially added.              |
-| Account Creation       | ❌         |  Support for this might never be officially added.              |
-| Actual Rec.Net         | ❌         |  Support for this might never be officially added.             |
-| Customizing Profile    | ✅         | Change your name, pfp and level!                                |
+| Name                | Status | Note                                                          |
+| Multiplayer         | ✅     | You can connect and play with your friends !                  |
+| Polaroids           | ✅     | Print photos!                                                 |
+| Custom Rooms        | ✅     | Semi-works, you can create a custom room, but not publish it. |
+| Friending People    | ❌     | Support for this might never be officially added.             |
+| Account Creation    | ❌     | But you still can play on already existed one!                |
+| Actual Rec.Net      | ❌     | Support For this might never be officially added.             |
+| Customizing Profile | ✅     | Change your name, pfp and level trough app !                  |
 
+> *Note: This table gonna update every time when we gonna fix/make work any things.*
+
+## Builds we have:
+
+| Build          | Status | Note                                               |
+| 2016           | ✅     | Working!                                           |
+| 2017           | ✅     | Working!                                           |
+| 2018           | ✅     | Working!                                           |
+| 2019           | ❌     | Support for this might never be officially added.  |
+| 2020           | ❌     | Support for this might never be officially added.  |
+| 2021           | ❌     | Support For this might never be officially added.  |
+| 2022 and newer | ✅     | Support for this might never be officially added.  |
 
 > *Note: This table gonna update every time when we gonna fix/make work any things.*
 
