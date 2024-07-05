@@ -1,5 +1,5 @@
-Patch v0.0.1:
+Patch v0.0.2:
 
 Credits:
-@2behindert - Just Here ig
-@mainerov - uhh idk
+@2behindert - Main Dev
+@mainerov - Main Designer
