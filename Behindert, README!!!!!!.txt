@@ -1,0 +1,1 @@
+hi, behindert! i got your message and i really want to continue our friendship with you :D. My discord is: mainerov
